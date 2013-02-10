@@ -1,0 +1,14 @@
+Source: borrowed-crunchbang-themes
+Section: misc
+Priority: extra
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Build-Depends-Indep: debhelper (>= 5.0.0)
+Standards-Version: 3.9.0
+Homepage: http://pibang.org/
+
+Package:borrowed-crunchbang-themes
+Architecture: all
+Description: Modified Faenza Icons and a GTK theme.
+	All with the customary grey crunchbang appearance. 
+
+

@@ -1,0 +1,10 @@
+Package: borrowed-crunchbang-themes
+Version: 0.0.2
+Architecture: all
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Installed-Size: 64897
+Section: misc
+Priority: extra
+Homepage: http://pibang.org/
+Description: Modified Faenza Icons and a GTK theme.
+ All with the customary grey crunchbang appearance.
